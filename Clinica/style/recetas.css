@@ -1,0 +1,22 @@
+body{
+  padding: 0;
+  margin: 0;
+  text-align: center;
+  font-family: 'Handlee', cursive;
+}
+h1{
+  text-align: center;
+  background-color: #292b2c;
+  color: #f0ad4e;
+}
+input[type='text'],input[type='number'],input[type='date'],label[for='fec'],label[for='nom'],label[for='doc'],label[for='medi'],label[for='nueva']{
+  width: 400px;
+
+}
+html{
+    background-color: #292b2c;
+}
+.container-fluid{
+  background-color: #292b2c;
+  color: #292b2c;
+}

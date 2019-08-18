@@ -1,0 +1,20 @@
+body{
+    padding: 0;
+    margin: 1cm;
+    font-family: 'Shadows Into Light', cursive;
+    text-align: center;
+    background-repeat: no-repeat;
+background-image: url(img/3d.jpg)
+
+}
+
+.container{
+   
+    
+    padding: center;
+    flex-direction: row;
+
+}
+h1{
+    color:white;
+}

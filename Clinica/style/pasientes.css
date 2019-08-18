@@ -1,0 +1,22 @@
+body{
+  padding: 0;
+  margin: 0;
+font-family: 'Handlee', cursive;
+
+}
+input[type='text'],input[type='number'],input[type='date'],label[for='name'],label[for='ape'],label[for='Eda'],label[for='fech'],label[for='tel'],label[for='gen'],
+label[for='nac'],label[for='est']{
+  width: 600px;
+
+}
+h1{
+  color: #0275d8;
+  text-align: center;
+
+}
+html{
+background-color: #292b2c;
+}
+.container-fluid{
+  background-color: #292b2c;
+}

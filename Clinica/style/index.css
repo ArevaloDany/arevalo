@@ -1,0 +1,30 @@
+body{
+  padding: 0;
+  margin: 0;
+  font-family: 'Indie Flower', cursive;
+  text-align: center;
+  background-repeat: no-repeat;
+  background-image: url(img/3d.jpg);
+}
+.container-fluid{
+width: 900px;
+height: 500px;
+opacity: 0.7;
+color: black;
+top: 50%;
+left: 55%;
+position:absolute;
+transform: translate(-55%, -55%);
+box-sizing: border-box;
+padding: center;
+flex-direction: row;
+}
+input[type="text"],input[type="password"],input[type="submit"],h1{
+  padding-top: 5px;
+  display: block;
+  width: 300px;
+  margin-left: 7cm;
+  margin-right: 5%;
+  margin-top: 50px;
+  margin-bottom: 1px;
+}
